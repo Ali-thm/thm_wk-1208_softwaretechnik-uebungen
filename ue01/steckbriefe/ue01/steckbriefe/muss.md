@@ -12,4 +12,4 @@
 
 ## Das erwarte ich von der Veranstaltung
 
-…Zu lernen wie man ein Softwareprojekt mit einzeln/mehreren Personen effektiv starten kann 
+…Ich möchte lernen, wie man mit Git im Team arbeitet.
