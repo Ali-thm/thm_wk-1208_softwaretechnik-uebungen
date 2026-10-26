@@ -64,3 +64,4 @@ Den Branch für die neue Übung zweigen Sie erst danach ab.
 - **Ein Anliegen je Pull Request**, mit einem Titel, der sagt, was sich
   ändert.
 - **Aussagekräftige Commit-Nachrichten**, etwa `Steckbrief für mmus anlegen`.
+
