@@ -1,5 +1,5 @@
 
-# Steckbrief <AR>
+# Steckbrief AR
 
 ## Studiengang und Semester
 
